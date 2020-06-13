@@ -24,6 +24,12 @@
 npx testcafe chrome TC01_TestCafe_Portal.js
 ```
 
-3. TestCafe will open the selected browser and start automation.
+3. If you want to screen record while running the autmation, then type the command:
+
+```sh
+npx testcafe chrome test.js --video artifacts/videos
+```
+
+4. TestCafe will open the selected browser and start automation.
 
 You will find the automation <a href="https://youtu.be/OqOMyJvtDAY" target="_blank">video</a> here.
