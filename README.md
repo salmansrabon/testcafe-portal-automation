@@ -34,7 +34,7 @@ npx testcafe chrome test.js --video artifacts/videos
 5. To view report, type the command:
 
 ```sh
-npx testcafe chrome TC01_TestCafe_Portal.js --reporter html:testresult.html
+npx testcafe chrome test.js --reporter spec,html:testresult.html
 ```
  
 You will find the automation <a href="https://youtu.be/OqOMyJvtDAY" target="_blank">video</a> here.

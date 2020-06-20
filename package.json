@@ -1,0 +1,28 @@
+{
+  "name": "TestCafe_Basic_Project",
+  "version": "1.0.0",
+  "description": "- Tool: testcafe\r - IDE: Visual Studio Code\r - Build tool: npm\r - Language: JavaScript",
+  "main": "test.js",
+  "dependencies": {
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-installer": "^1.0.2",
+    "package": "^1.0.1",
+    "testcafe": "^1.8.6",
+    "testcafe-reporter-html": "^1.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salmansrabon/testcafe-portal-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salmansrabon/testcafe-portal-automation/issues"
+  },
+  "homepage": "https://github.com/salmansrabon/testcafe-portal-automation#readme"
+}
