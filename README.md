@@ -21,7 +21,7 @@
 2. Type this command:
 
 ```sh
-npx testcafe chrome TC01_TestCafe_Portal.js
+npx testcafe chrome test.js
 ```
 
 3. If you want to screen record while running the autmation, then type the command:
